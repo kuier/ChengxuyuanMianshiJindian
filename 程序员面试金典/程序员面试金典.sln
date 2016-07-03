@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-确定字符互异", "1-�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-原串翻转", "2-原串翻转\2-原串翻转.csproj", "{2B607CC3-7872-4C4D-B967-8413A72B0068}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-确定两串乱序同构", "3-确定两串乱序同构\3-确定两串乱序同构.csproj", "{BA007A5C-DC63-4F29-88FA-CEC79B0C923D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2B607CC3-7872-4C4D-B967-8413A72B0068}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B607CC3-7872-4C4D-B967-8413A72B0068}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B607CC3-7872-4C4D-B967-8413A72B0068}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA007A5C-DC63-4F29-88FA-CEC79B0C923D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA007A5C-DC63-4F29-88FA-CEC79B0C923D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA007A5C-DC63-4F29-88FA-CEC79B0C923D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA007A5C-DC63-4F29-88FA-CEC79B0C923D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

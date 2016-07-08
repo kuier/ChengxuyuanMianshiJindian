@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-基本字符串压缩", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-像素翻转", "6-像素翻转\6-像素翻转.csproj", "{039BB40D-8C2A-498A-9386-D571CEC8BA76}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-清除行列", "7-清除行列\7-清除行列.csproj", "{CBE8851C-7D0E-4FD9-94BB-2FBDF09A337B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{039BB40D-8C2A-498A-9386-D571CEC8BA76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{039BB40D-8C2A-498A-9386-D571CEC8BA76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{039BB40D-8C2A-498A-9386-D571CEC8BA76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBE8851C-7D0E-4FD9-94BB-2FBDF09A337B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBE8851C-7D0E-4FD9-94BB-2FBDF09A337B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBE8851C-7D0E-4FD9-94BB-2FBDF09A337B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBE8851C-7D0E-4FD9-94BB-2FBDF09A337B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

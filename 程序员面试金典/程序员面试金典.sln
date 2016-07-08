@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-确定两串乱序同构"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-空格替换", "4-空格替换\4-空格替换.csproj", "{2BBBAD8F-1893-47BE-8B2B-EFBF136E0875}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-基本字符串压缩", "5-基本字符串压缩\5-基本字符串压缩.csproj", "{11BFD76B-679E-49A7-85E4-216D812CF087}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{2BBBAD8F-1893-47BE-8B2B-EFBF136E0875}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BBBAD8F-1893-47BE-8B2B-EFBF136E0875}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BBBAD8F-1893-47BE-8B2B-EFBF136E0875}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11BFD76B-679E-49A7-85E4-216D812CF087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11BFD76B-679E-49A7-85E4-216D812CF087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11BFD76B-679E-49A7-85E4-216D812CF087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11BFD76B-679E-49A7-85E4-216D812CF087}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

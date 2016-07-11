@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-访问单个节点的删�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-链表分割", "10-链表分割\10-链表分割.csproj", "{4AD49056-B2F8-4D1D-9F96-7B2E32E0397F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-链表A+B", "11-链表A+B\11-链表A+B.csproj", "{B5CA04FA-FD02-4C17-BF63-9FF368111EF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{4AD49056-B2F8-4D1D-9F96-7B2E32E0397F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AD49056-B2F8-4D1D-9F96-7B2E32E0397F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AD49056-B2F8-4D1D-9F96-7B2E32E0397F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5CA04FA-FD02-4C17-BF63-9FF368111EF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5CA04FA-FD02-4C17-BF63-9FF368111EF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5CA04FA-FD02-4C17-BF63-9FF368111EF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5CA04FA-FD02-4C17-BF63-9FF368111EF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

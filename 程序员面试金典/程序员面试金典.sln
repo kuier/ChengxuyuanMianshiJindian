@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-链表A+B", "11-链表A+
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-检查回文", "12-检查回文\12-检查回文.csproj", "{F8FADE1C-7095-48D6-B78F-9714F3DF14D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-双栈排序", "13-双栈排序\13-双栈排序.csproj", "{66ACDFA8-83DC-4B6F-A62D-C74A890341F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{F8FADE1C-7095-48D6-B78F-9714F3DF14D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8FADE1C-7095-48D6-B78F-9714F3DF14D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8FADE1C-7095-48D6-B78F-9714F3DF14D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66ACDFA8-83DC-4B6F-A62D-C74A890341F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66ACDFA8-83DC-4B6F-A62D-C74A890341F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66ACDFA8-83DC-4B6F-A62D-C74A890341F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66ACDFA8-83DC-4B6F-A62D-C74A890341F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
